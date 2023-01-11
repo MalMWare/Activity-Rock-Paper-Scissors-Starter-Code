@@ -1,5 +1,4 @@
 
-
 let userSelection = prompt("rock, paper or scissors?"); //Gets the users selection
 let computerSelection = Math.floor(Math.random() * 100); //Randomly generate a number
 console.log(computerSelection)
